@@ -1,4 +1,4 @@
-# NOTEBOOK 5
+# PRIMER ENTREGA
 Este repositorio contiene una serie de ejercicios de báscios de NumPy realizados en el marco del curso de Phyton.
 Los ejercicios incluyen:
 1. Arreglos de ceros y valores específicos
