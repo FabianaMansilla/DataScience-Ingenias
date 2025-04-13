@@ -1,5 +1,5 @@
 # PRIMER ENTREGA
-Este repositorio contiene dos archivos con una serie de ejercicios realizados en el marco del curso de Phyton.
+Este repositorio contiene dos archivos con una serie de ejercicios realizados en el marco del curso de Data Science.
 
 **NOTEBOOK 5: Introducción a NumPy**
 
