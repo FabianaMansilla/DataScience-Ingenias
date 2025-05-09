@@ -83,6 +83,8 @@ El repositorio está organizado en carpetas, cada una correspondiente a una etap
 
 📁 Pre-Entrega 4:
 
+📄 README.md: Este archivo contiene la documentación general del proyecto.
+
 ---
 
 **Metodología**
@@ -93,4 +95,13 @@ Los análisis se realizaron con agregación anual, lo que permitió visualizar m
    * En el Dataset 1, se examinó la evolución anual de la producción total de gas natural, desagregando por cuenca y tipo de recurso (convencional vs no convencional).
    *  En el Dataset 2, se analizaron las producciones de pozos no convencionales según empresa operadora, ubicación geográfica y tipo de recurso (shale, tight).
    *  Se investigó especialmente la evolución del peso relativo y el crecimiento de los recursos no convencionales dentro del total nacional.
+
+
+---
+
+**Herramientas utilizadas**
+
+* Python (v3.10)
+* Pandas, Numpy, Matplotlib, Seaborn (análisis y visualización)
+* Scipy: para análisis estadístico y funciones científicas complementarias.
    
