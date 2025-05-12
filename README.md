@@ -17,7 +17,7 @@ Realizar un análisis exploratorio y desarrollar un modelo predictivo de la prod
 
 
 1.   Análisis histórico: Describir la evolución mensual de la producción total de gas natural y su desglose por cuenca (Neuquina, Austral, Golfo San Jorge, Noroeste, Cuyana) y tipo de recurso (convencional vs no convencional) utilizando el Dataset1.
-2.   Exploración de pozos: Analizar la producción de gas y petróleo a nivel de pozo no convencional según tipo de recurso (shale, tight), empresa operadora, cuenca y coordenadas geográficas con el Dataset2.
+2.   Exploración de pozos: Analizar la producción de gas a nivel de pozo no convencional según tipo de recurso (shale, tight), empresa operadora, cuenca y coordenadas geográficas con el Dataset2.
 3. Evolución de recursos no convencionales: Investigar el peso relativo y la tasa de crecimiento del gas shale y tight sobre la producción nacional total (Dataset1).
 4. Modelo predictivo: Desarrollar modelos que estimen la producción futura de gas natural, tanto agregada como por pozo, a partir de las variables temporales, geográficas y técnicas disponibles en ambos datasets.
 
