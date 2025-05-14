@@ -22,7 +22,7 @@ Realizar un análisis exploratorio y desarrollar un modelo predictivo de la prod
 4. Modelo predictivo: Desarrollar modelos que estimen la producción futura de gas natural, tanto agregada como por cuencas, a partir de las variables temporales, geográficas y técnicas disponibles en ambos datasets.
 
 ---
-**Integrantes: Grupo 5**
+**Integrantes: Equipo 5**
 
 Mansilla, Fabiana Yamila
 
