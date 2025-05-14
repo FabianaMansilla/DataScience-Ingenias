@@ -11,15 +11,15 @@ Al combinar la visión macro (Dataset1) con el detalle micro (Dataset2), se podr
 
 **Objetivo general**
 
-Realizar un análisis exploratorio y desarrollar un modelo predictivo de la producción de gas natural en Argentina, utilizando datos históricos agregados y datos de pozos no convencionales, para identificar patrones espaciales y temporales y proyectar la evolución futura de la producción a nivel nacional y por cuenca.
+Realizar un análisis exploratorio y desarrollar un modelo predictivo de la producción de gas natural en Argentina, utilizando datos históricos agregados y datos de pozos no convencionales, para identificar patrones temporales y proyectar la evolución futura de la producción a nivel nacional y por cuenca.
 
 **Objetivos específicos**
 
 
-1.   Análisis histórico: Describir la evolución mensual de la producción total de gas natural y su desglose por cuenca (Neuquina, Austral, Golfo San Jorge, Noroeste, Cuyana) y tipo de recurso (convencional vs no convencional) utilizando el Dataset1.
-2.   Exploración de pozos: Analizar la producción de gas a nivel de pozo no convencional según tipo de recurso (shale, tight), empresa operadora, cuenca y coordenadas geográficas con el Dataset2.
+1.   Análisis histórico: Describir la evolución anual de la producción total de gas natural y su desglose por cuenca (Neuquina, Austral, Golfo San Jorge, Noroeste, Cuyana) y tipo de recurso (convencional vs no convencional) utilizando el Dataset1.
+2.   Exploración de pozos: Analizar la producción de gas a nivel de pozo no convencional según tipo de recurso (shale, tight),  cuenca y coordenadas geográficas con el Dataset2.
 3. Evolución de recursos no convencionales: Investigar el peso relativo y la tasa de crecimiento del gas shale y tight sobre la producción nacional total (Dataset1).
-4. Modelo predictivo: Desarrollar modelos que estimen la producción futura de gas natural, tanto agregada como por pozo, a partir de las variables temporales, geográficas y técnicas disponibles en ambos datasets.
+4. Modelo predictivo: Desarrollar modelos que estimen la producción futura de gas natural, tanto agregada como por cuencas, a partir de las variables temporales, geográficas y técnicas disponibles en ambos datasets.
 
 ---
 **Integrantes: Grupo 5**
@@ -93,8 +93,8 @@ El repositorio está organizado en carpetas, cada una correspondiente a una etap
 2. Análisis exploratorio: Se trabajó con ambos datasets desde dos perspectivas temporales: la serie histórica completa y un recorte de los últimos 10 años, para captar tanto la evolución general como las tendencias más recientes.
 Los análisis se realizaron con agregación anual, lo que permitió visualizar mejor los patrones y reducir la variabilidad propia de los datos mensuales.
    * En el Dataset 1, se examinó la evolución anual de la producción total de gas natural, desagregando por cuenca y tipo de recurso (convencional vs no convencional).
-   *  En el Dataset 2, se analizaron las producciones de pozos no convencionales según empresa operadora, ubicación geográfica y tipo de recurso (shale, tight).
-   *  Se investigó especialmente la evolución del peso relativo y el crecimiento de los recursos no convencionales dentro del total nacional.
+   *  En el Dataset 2, se analizaron las producciones de pozos no convencionales según sub tipo de recurso (shale, tight), tipo de pozo (Gasífero), tipo de estado y por cuenca.
+   *  Se investigó especialmente el crecimiento de los recursos no convencionales dentro del total nacional.
 
 
 ---
