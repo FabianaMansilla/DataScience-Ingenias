@@ -16,7 +16,7 @@ Desarrollar y evaluar distintos modelos de aprendizaje supervisado para estimar 
 
 ---
 
-👩‍💻 Integrantes - Equipo 5
+👩‍💻 **Integrantes - Equipo 5**
 
 Fabiana Yamila Mansilla
 
