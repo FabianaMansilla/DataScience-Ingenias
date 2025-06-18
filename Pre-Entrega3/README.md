@@ -78,7 +78,7 @@ Durante esta entrega se aplicaron distintos algoritmos de aprendizaje supervisad
 🗂️ **Estructura de la carpeta**
 
 📁 Pre-entrega3/
-│
+
 ├── 📄 README.md ← Este archivo
 
 ├── 📓 Pre-Entrega3_Equipo5.ipynb
