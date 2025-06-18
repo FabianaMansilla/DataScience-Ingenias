@@ -79,7 +79,7 @@ El repositorio está organizado en carpetas, cada una correspondiente a una etap
 
 📁 Pre-Entrega 2: En esta carpeta comienza el desarrollo del proyecto grupal. Se incluye la notebook con el proceso de limpieza de datos y el análisis exploratorio, que ya toma como base el problema específico de la producción de gas natural en Argentina. 
 
-📁 Pre-Entrega 3:
+📁 Pre-Entrega 3: En esta carpeta podran encontrar la notebook con el desarrollo y evaluación de distintos modelos de aprendizaje supervisado para estimar la producción futura de gas natural en Argentina, haciendo foco en el crecimiento de los recursos no convencionales (shale y tight). 
 
 📁 Pre-Entrega 4:
 
