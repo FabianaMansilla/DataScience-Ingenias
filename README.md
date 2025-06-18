@@ -101,7 +101,7 @@ Los análisis se realizaron con agregación anual, lo que permitió visualizar m
 
 **Herramientas utilizadas**
 
-* Python (v3.10)
-* Pandas, Numpy, Matplotlib, Seaborn (análisis y visualización)
-* Scipy: para análisis estadístico y funciones científicas complementarias.
-   
+* Lenguaje: Python 3.10
+* Análisis y visualización: pandas, numpy, matplotlib, seaborn, plotly, scipy
+* Modelado predictivo: sklearn (train_test_split, RandomForestRegressor, SVR), XGBoost, Prophet, GridSearchCV
+* Entorno: Google Colab, Jupyter Notebook, GitHub
