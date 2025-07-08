@@ -96,7 +96,11 @@ Durante esta entrega se aplicaron distintos algoritmos de aprendizaje no supervi
 
 ### 🔍 Conclusiones preliminares
 
-- aaa
+El análisis con modelos no supervisados revela una transición estructural en la industria:
+
+- Dataset 1: Muestra el cambio desde la producción convencional a la no convencional (shale y tight gas), con Neuquén como protagonista. K-Means identifica la transición global, mientras DBSCAN revela fases intermedias y micro-patrones temporales.
+
+- Dataset 2: Confirma que la Cuenca Neuquina alberga los pozos más productivos, principalmente en desarrollo y con alto contenido de gas. Paralelamente, hay zonas con producción mixta y diversa en Río Negro, Santa Cruz y Mendoza. La detección de outliers por parte de DBSCAN subraya la importancia de investigar pozos con comportamiento anómalo, tanto para corregir errores como para detectar nuevas oportunidades.
 
 
 ---
