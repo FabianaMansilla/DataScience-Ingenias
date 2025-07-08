@@ -18,7 +18,7 @@ Esta etapa incluyó:
 
 ---
 
-👩‍💻 Integrantes - Equipo 5
+👩‍💻 **Integrantes - Equipo 5**
 
 Fabiana Yamila Mansilla
 
