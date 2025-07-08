@@ -52,7 +52,7 @@ Enlace: http://datos.energia.gob.ar/dataset/produccion-de-petroleo-y-gas-por-poz
 
 ---
 
-**Conclusión**
+**Conclusión preliminar**
 
 Durante esta etapa se logró una primera comprensión profunda de los datos disponibles sobre la producción de gas natural en Argentina. A través de tareas de inspección, limpieza y análisis exploratorio, se identificaron patrones relevantes, diferencias entre tipos de recurso (convencional vs no convencional) y particularidades geográficas clave.
 El trabajo realizado permitió validar la calidad de los datos, detectar posibles inconsistencias y establecer una base sólida para las siguientes etapas del proyecto, orientadas al desarrollo de modelos predictivos y de segmentación más avanzados.
