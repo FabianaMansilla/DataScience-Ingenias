@@ -6,6 +6,7 @@ Este documento corresponde a la segunda etapa del proyecto grupal de Data Scienc
 ---
 
 🎯 **Objetivo de esta etapa**
+
 Preparar los datos, identificar patrones iniciales y realizar un análisis exploratorio profundo que permita entender la dinámica de la producción de gas natural, con especial atención a la evolución de los recursos no convencionales (shale y tight).
 Esta etapa incluyó:
 
