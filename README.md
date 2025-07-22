@@ -83,6 +83,8 @@ El repositorio está organizado en carpetas, cada una correspondiente a una etap
 
 📁 Pre-Entrega 4: En esta fase se aplicaron técnicas de aprendizaje no supervisado con el objetivo de identificar patrones ocultos y segmentar la producción de gas natural en Argentina. El desarrollo toma como base los análisis realizados en las etapas previas, enfocándose en la caracterización de regiones productoras y comportamientos diferenciados entre recursos convencionales y no convencionales (shale y tight). La notebook incluye la implementación de algoritmos como clustering y reducción de dimensionalidad, junto con su interpretación y visualización de resultados.
 
+📄 Presentación: Este archivo pdf ofrece una visión global del proyecto, destacando los objetivos, la metodología, las principales conclusiones y predicciones sobre el futuro del gas natural en Argentina, incluyendo los insights y conclusiones de los modelos supervisados y no supervisados.
+
 📄 README.md: Este archivo contiene la documentación general del proyecto.
 
 ---
